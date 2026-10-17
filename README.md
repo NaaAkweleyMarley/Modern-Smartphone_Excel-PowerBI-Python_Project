@@ -243,6 +243,13 @@ The architecture supports multi-perspective analysis across several dimensionsâ€
 
 The broader project also demonstrates a unique transition from Descriptive and Diagnostic analytics, through to Predictive and Prescriptive analytics. At each stage of the project, different questions were explored and answered, with strict adherence to the data lifecycle. The overall project succesfully demonstrated "What happened", "Why it happened", "What would happen in the future?", and "What should be done about it?".
 
+
+â€¢ **Full Project Presentation**: Available as a PDF deck inside this repository under the file name "Modern-Smartphone_Presentation.pdf".
+
+Navigate to the named folder or click the link below to access the PDF deck.
+
+[https://github.com/NaaAkweleyMarley/Modern-Smartphone_Excel-PowerBI-Python_Project/blob/main/Modern-Smartphone_Presentation/Modern-Smartphone_Presentation.pdf]
+
 #### Author:
 #### Naa Akweley Marley
 LinkedIn: [Naa Akweley Marley](https://www.linkedin.com/in/naa-akweley-marley)
