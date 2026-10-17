@@ -1,0 +1,504 @@
+Brand,Price,Ram_GB,Storage_GB,Camera_MP,Battery_MAH,Display Size_INCHES,Charging_WATT,5G Support,OS,Processor,Rating,Release Month,Year,Price Category
+Oppo,855,16,128,108,6000,6.6,33,Yes,Android,Helio G99,3.8,February,2025,Flagship
+Realme,618,6,128,64,4500,6.9,100,Yes,Android,Tensor G4,4.4,August,2025,Mid-range
+Xiaomi,258,16,64,64,4000,6.8,44,Yes,Android,A18 Pro,4.1,March,2025,Budget
+Vivo,837,6,512,48,4500,6,65,Yes,Android,Exynos 2400,4.1,August,2025,Flagship
+Apple,335,12,128,200,5000,6.9,100,Yes,iOS,Dimensity 9300,3.5,February,2025,Mid-range
+Apple,1447,16,64,64,4500,6.7,33,Yes,iOS,Exynos 2400,4.7,November,2025,Flagship
+Infinix,1354,6,1024,12,5500,5.7,18,Yes,Android,Tensor G4,4,July,2025,Flagship
+Realme,311,8,1024,50,5500,6.9,44,Yes,Android,Snapdragon 6 Gen 1,4.4,March,2025,Mid-range
+Samsung,1093,8,1024,200,4000,5.6,100,Yes,Android,Snapdragon 8 Gen 3,4.1,April,2025,Flagship
+Vivo,223,8,512,200,5500,6.3,18,Yes,Android,Helio G99,4.9,December,2025,Budget
+Xiaomi,1126,8,64,48,4000,7.2,33,Yes,Android,Exynos 2400,4.7,July,2025,Flagship
+Samsung,1339,6,512,200,4500,6.2,120,Yes,Android,Snapdragon 7+ Gen 2,4.7,May,2025,Flagship
+OnePlus,127,16,256,200,5500,5.7,44,Yes,Android,Snapdragon 7+ Gen 2,5,January,2025,Budget
+Google,1392,8,128,108,4500,7.1,44,Yes,Android,Tensor G4,3.8,October,2025,Flagship
+Realme,1404,16,1024,50,4000,6.6,100,Yes,Android,Tensor G4,4.7,April,2025,Flagship
+Infinix,882,4,128,200,4000,6.6,44,Yes,Android,Exynos 2400,4.1,April,2025,Flagship
+Infinix,136,4,64,48,5000,5.6,65,Yes,Android,Snapdragon 7+ Gen 2,4.6,June,2025,Budget
+Realme,627,8,512,50,6000,6.3,44,Yes,Android,Tensor G4,4.6,March,2025,Mid-range
+Samsung,1288,6,256,108,6000,6.8,18,Yes,Android,Tensor G4,3.9,January,2025,Flagship
+Oppo,1451,6,128,200,5500,6.9,120,Yes,Android,Tensor G4,4.2,September,2025,Flagship
+Google,1190,4,256,12,6000,6.1,18,Yes,Android,Helio G99,4.3,October,2025,Flagship
+Samsung,1252,8,64,50,4000,6.9,18,Yes,Android,Tensor G4,4.2,March,2025,Flagship
+OnePlus,1497,12,256,64,4000,5.7,18,Yes,Android,Exynos 2400,3.6,April,2025,Flagship
+Google,187,4,1024,200,4000,6.6,100,Yes,Android,Helio G99,4.8,July,2025,Budget
+OnePlus,817,16,128,50,4000,5.5,44,Yes,Android,A18 Pro,4.5,July,2025,Flagship
+Xiaomi,1332,16,1024,108,5500,5.9,33,Yes,Android,Snapdragon 7+ Gen 2,4.1,February,2025,Flagship
+Realme,417,6,512,50,6000,6.9,120,Yes,Android,Exynos 2400,3.6,March,2025,Mid-range
+Xiaomi,1194,4,512,50,4500,6.9,120,Yes,Android,Snapdragon 7+ Gen 2,4.6,April,2025,Flagship
+OnePlus,848,12,1024,200,5500,5.8,44,Yes,Android,Helio G99,4,March,2025,Flagship
+Oppo,681,16,1024,200,5500,6.7,44,Yes,Android,Snapdragon 8 Gen 3,3.6,October,2025,Mid-range
+Realme,1229,8,1024,64,5500,6.4,44,Yes,Android,Dimensity 9300,4.2,August,2025,Flagship
+Google,1320,4,64,200,4500,6.4,44,Yes,Android,Snapdragon 6 Gen 1,3.9,December,2025,Flagship
+Xiaomi,651,8,1024,64,4500,5.7,44,Yes,Android,Snapdragon 8 Gen 3,3.6,December,2025,Mid-range
+Realme,814,16,256,200,5000,6.2,65,Yes,Android,Exynos 2400,3.7,March,2025,Flagship
+Oppo,1346,16,128,50,5000,7.2,65,Yes,Android,Dimensity 9300,4.8,March,2025,Flagship
+Oppo,1025,16,512,200,6000,6.5,18,Yes,Android,A18 Pro,4.3,August,2025,Flagship
+Vivo,300,12,512,200,5000,7.2,120,Yes,Android,A18 Pro,4.1,October,2025,Mid-range
+Xiaomi,629,12,256,64,6000,7.1,44,Yes,Android,A18 Pro,3.7,July,2025,Mid-range
+OnePlus,119,12,64,48,4000,5.8,65,Yes,Android,Snapdragon 6 Gen 1,4.4,December,2025,Budget
+Oppo,188,16,1024,200,5000,6.7,100,Yes,Android,Helio G99,4.7,October,2025,Budget
+Apple,168,4,256,48,4000,6.1,65,Yes,iOS,Snapdragon 7+ Gen 2,4.8,July,2025,Budget
+Infinix,666,8,64,48,4500,6.8,44,Yes,Android,Helio G99,4.5,September,2025,Mid-range
+Oppo,258,4,256,108,5500,7.2,18,Yes,Android,Helio G99,4.5,June,2025,Budget
+Realme,213,4,256,200,5500,6.2,120,Yes,Android,Helio G99,4.2,February,2025,Budget
+Infinix,378,12,512,12,5000,6.9,120,Yes,Android,Snapdragon 6 Gen 1,3.7,November,2025,Mid-range
+Vivo,161,16,64,64,5000,7.2,44,Yes,Android,Tensor G4,3.8,August,2025,Budget
+Vivo,544,12,1024,200,4000,6.8,44,Yes,Android,Tensor G4,4.1,August,2025,Mid-range
+Infinix,1470,16,64,108,4000,6.1,33,Yes,Android,Snapdragon 8 Gen 3,4.7,January,2025,Flagship
+Vivo,1282,4,128,64,5000,6.6,120,Yes,Android,Snapdragon 8 Gen 3,4.4,December,2025,Flagship
+Infinix,1164,6,128,200,4000,6.2,18,Yes,Android,A18 Pro,4.8,March,2025,Flagship
+Infinix,1257,6,1024,108,5000,5.9,18,Yes,Android,Snapdragon 6 Gen 1,3.5,January,2025,Flagship
+Google,1321,16,256,64,4000,7,44,Yes,Android,Tensor G4,4.1,February,2025,Flagship
+Xiaomi,776,8,1024,48,5500,6.5,44,Yes,Android,Exynos 2400,4,April,2025,Flagship
+Samsung,514,12,128,64,6000,7,100,Yes,Android,Dimensity 9300,3.5,August,2025,Mid-range
+Samsung,1052,6,512,200,5500,7.1,33,Yes,Android,Tensor G4,4.6,August,2025,Flagship
+Infinix,1258,8,64,108,4500,6.4,65,Yes,Android,Snapdragon 8 Gen 3,3.6,November,2025,Flagship
+Vivo,313,8,64,64,6000,6.1,33,Yes,Android,A18 Pro,4.6,July,2025,Mid-range
+OnePlus,547,12,256,200,4000,6.6,65,Yes,Android,Snapdragon 8 Gen 3,4.4,May,2025,Mid-range
+Vivo,314,12,1024,108,5000,7.1,44,Yes,Android,A18 Pro,4,April,2025,Mid-range
+Oppo,1141,12,64,12,5000,5.6,100,Yes,Android,Tensor G4,3.8,January,2025,Flagship
+Oppo,444,16,64,48,4500,7,120,Yes,Android,Tensor G4,3.8,February,2025,Mid-range
+Vivo,473,16,128,108,5000,6,44,Yes,Android,Snapdragon 6 Gen 1,4.3,December,2025,Mid-range
+Google,951,8,128,48,5500,6,65,Yes,Android,Snapdragon 6 Gen 1,4.4,March,2025,Flagship
+Infinix,910,8,1024,200,4000,5.6,18,Yes,Android,Snapdragon 8 Gen 3,4.6,July,2025,Flagship
+Realme,287,8,512,48,5500,6.4,100,Yes,Android,A18 Pro,4.1,June,2025,Budget
+Xiaomi,476,16,512,200,4000,7,120,Yes,Android,Dimensity 9300,4.5,August,2025,Mid-range
+Realme,236,12,1024,50,6000,6.8,33,Yes,Android,A18 Pro,4.5,October,2025,Budget
+OnePlus,262,8,1024,108,5000,6.9,18,Yes,Android,A18 Pro,4.3,August,2025,Budget
+Xiaomi,803,8,128,200,4500,5.7,120,Yes,Android,Exynos 2400,3.8,January,2025,Flagship
+Xiaomi,754,12,512,108,6000,6,120,Yes,Android,Dimensity 9300,3.6,February,2025,Flagship
+Samsung,793,12,128,50,5500,6.4,44,Yes,Android,Tensor G4,4.2,October,2025,Flagship
+Apple,1005,12,1024,12,5000,6.1,33,Yes,iOS,Helio G99,4.6,May,2025,Flagship
+Samsung,910,4,64,108,6000,6.9,65,Yes,Android,Snapdragon 8 Gen 3,4.1,December,2025,Flagship
+Infinix,732,12,64,108,4000,5.6,18,Yes,Android,Dimensity 9300,4.5,December,2025,Flagship
+Samsung,247,16,128,50,4500,7.1,120,Yes,Android,Snapdragon 6 Gen 1,4,February,2025,Budget
+OnePlus,1238,8,1024,64,5000,7.2,120,Yes,Android,Snapdragon 7+ Gen 2,4.9,May,2025,Flagship
+OnePlus,706,12,1024,50,4000,5.7,33,Yes,Android,Exynos 2400,3.9,March,2025,Flagship
+OnePlus,1398,6,64,50,5500,5.8,100,Yes,Android,Snapdragon 8 Gen 3,3.6,October,2025,Flagship
+Oppo,107,6,64,64,6000,6.3,65,Yes,Android,Snapdragon 8 Gen 3,3.9,March,2025,Budget
+Infinix,613,16,1024,50,4500,5.9,44,Yes,Android,Exynos 2400,3.9,December,2025,Mid-range
+Infinix,1065,4,1024,200,6000,6.2,33,Yes,Android,A18 Pro,4.5,January,2025,Flagship
+Google,1437,4,256,48,5000,6.6,120,Yes,Android,Helio G99,4.3,September,2025,Flagship
+OnePlus,876,6,128,12,4500,6.6,120,Yes,Android,Exynos 2400,4.8,March,2025,Flagship
+Vivo,776,12,512,48,4500,6.5,65,Yes,Android,Tensor G4,3.6,February,2025,Flagship
+OnePlus,637,16,1024,48,4500,7,100,Yes,Android,Dimensity 9300,3.6,February,2025,Mid-range
+Vivo,1137,4,64,12,6000,6.1,100,Yes,Android,Snapdragon 7+ Gen 2,4.3,February,2025,Flagship
+Xiaomi,105,12,64,12,5000,6.4,120,Yes,Android,Helio G99,4.8,April,2025,Budget
+Apple,736,6,128,64,6000,7.1,18,Yes,iOS,Tensor G4,3.7,July,2025,Flagship
+Infinix,773,8,64,50,6000,7.1,65,Yes,Android,Snapdragon 7+ Gen 2,4,October,2025,Flagship
+OnePlus,463,8,512,48,4500,6,100,Yes,Android,Dimensity 9300,4.5,November,2025,Mid-range
+Vivo,363,16,64,200,6000,6.8,65,Yes,Android,Helio G99,3.9,March,2025,Mid-range
+Google,1293,8,512,48,5500,6.3,100,Yes,Android,Dimensity 9300,4.8,April,2025,Flagship
+Apple,186,8,128,64,5500,6.1,120,Yes,iOS,Snapdragon 7+ Gen 2,4.9,December,2025,Budget
+Vivo,622,8,64,200,4000,7.2,18,Yes,Android,A18 Pro,4.9,November,2025,Mid-range
+Xiaomi,328,4,512,108,5500,5.9,100,Yes,Android,Snapdragon 6 Gen 1,4.3,January,2025,Mid-range
+Oppo,1399,8,1024,48,4500,6.9,100,Yes,Android,Dimensity 9300,5,April,2025,Flagship
+Infinix,567,12,1024,200,4500,6.3,120,Yes,Android,A18 Pro,3.7,March,2025,Mid-range
+Samsung,1137,12,128,12,4000,6.4,65,Yes,Android,Helio G99,4.7,January,2025,Flagship
+Oppo,1075,6,64,50,4000,6.6,120,Yes,Android,Tensor G4,4.6,May,2025,Flagship
+Infinix,184,6,512,12,4500,6.9,120,Yes,Android,Snapdragon 8 Gen 3,4.5,June,2025,Budget
+Apple,1087,8,128,64,6000,6.9,120,Yes,iOS,Snapdragon 8 Gen 3,3.7,February,2025,Flagship
+Samsung,167,16,256,48,4000,6.7,120,Yes,Android,A18 Pro,4.6,June,2025,Budget
+Xiaomi,342,4,512,48,5000,5.5,120,Yes,Android,Helio G99,4.9,August,2025,Mid-range
+Samsung,1406,8,512,200,4500,5.8,65,Yes,Android,A18 Pro,3.6,June,2025,Flagship
+Oppo,1059,4,256,12,4000,6.5,100,Yes,Android,A18 Pro,4.5,March,2025,Flagship
+Samsung,1095,12,1024,108,5500,7.1,18,Yes,Android,Dimensity 9300,4.9,March,2025,Flagship
+OnePlus,928,12,256,48,4000,6.4,33,Yes,Android,Dimensity 9300,3.8,March,2025,Flagship
+Apple,377,12,512,200,5000,7,44,Yes,iOS,Helio G99,4.6,July,2025,Mid-range
+Samsung,1160,6,64,48,5500,6.7,65,Yes,Android,Helio G99,4.9,February,2025,Flagship
+Xiaomi,773,12,64,12,4500,5.6,100,Yes,Android,Tensor G4,4.3,October,2025,Flagship
+Xiaomi,997,8,128,200,6000,6,44,Yes,Android,Snapdragon 7+ Gen 2,3.8,April,2025,Flagship
+Infinix,743,8,128,50,4500,6,44,Yes,Android,Snapdragon 6 Gen 1,4.7,November,2025,Flagship
+Vivo,1447,8,128,64,4000,6,100,Yes,Android,Snapdragon 7+ Gen 2,3.7,March,2025,Flagship
+Vivo,205,6,512,12,6000,7.1,18,Yes,Android,A18 Pro,4.6,December,2025,Budget
+Oppo,1480,4,512,48,5000,6.4,100,Yes,Android,Exynos 2400,4.6,February,2025,Flagship
+Samsung,316,12,128,108,5000,6.4,120,Yes,Android,Exynos 2400,4.4,April,2025,Mid-range
+Realme,543,12,128,50,4500,6.4,44,Yes,Android,Snapdragon 7+ Gen 2,3.9,June,2025,Mid-range
+OnePlus,1317,12,512,12,4000,6.5,44,Yes,Android,Snapdragon 7+ Gen 2,3.6,September,2025,Flagship
+Vivo,886,16,128,50,4000,5.5,44,Yes,Android,Snapdragon 8 Gen 3,4.8,July,2025,Flagship
+Realme,1420,6,256,200,5000,5.6,18,Yes,Android,Exynos 2400,3.5,July,2025,Flagship
+Apple,625,6,1024,50,4500,6.5,65,Yes,iOS,Snapdragon 7+ Gen 2,4.3,August,2025,Mid-range
+OnePlus,731,8,64,12,4000,6.1,44,Yes,Android,Snapdragon 7+ Gen 2,4.2,February,2025,Flagship
+Oppo,1478,6,1024,12,5500,6,120,Yes,Android,Exynos 2400,4.7,February,2025,Flagship
+Realme,738,12,128,12,4500,6.4,33,Yes,Android,Snapdragon 8 Gen 3,4,October,2025,Flagship
+Oppo,1060,4,128,200,6000,6.7,65,Yes,Android,Dimensity 9300,4.9,November,2025,Flagship
+Vivo,886,8,1024,12,5000,6.7,100,Yes,Android,Snapdragon 8 Gen 3,3.6,July,2025,Flagship
+Infinix,404,6,128,48,4500,6.9,18,Yes,Android,Exynos 2400,3.9,May,2025,Mid-range
+Infinix,1167,4,1024,50,4500,7.1,18,Yes,Android,Snapdragon 7+ Gen 2,5,February,2025,Flagship
+Apple,1058,4,128,108,5000,6.8,44,Yes,iOS,Tensor G4,4.4,November,2025,Flagship
+OnePlus,255,8,64,200,6000,6.7,65,Yes,Android,Snapdragon 8 Gen 3,4.6,August,2025,Budget
+Realme,1122,8,128,48,5500,6,120,Yes,Android,Snapdragon 6 Gen 1,3.8,May,2025,Flagship
+Samsung,335,4,64,108,5500,5.8,44,Yes,Android,Tensor G4,4.8,April,2025,Mid-range
+OnePlus,1450,12,1024,200,5000,6.5,18,Yes,Android,Exynos 2400,4,January,2025,Flagship
+Oppo,661,6,1024,64,5000,7.2,100,Yes,Android,Snapdragon 6 Gen 1,3.6,October,2025,Mid-range
+Infinix,1019,4,128,200,6000,5.8,33,Yes,Android,Snapdragon 6 Gen 1,4,May,2025,Flagship
+Vivo,604,16,512,108,5000,6.4,65,Yes,Android,Helio G99,3.8,January,2025,Mid-range
+Oppo,501,6,256,108,4500,5.7,65,Yes,Android,Tensor G4,3.8,April,2025,Mid-range
+Apple,1014,16,64,12,4000,7,33,Yes,iOS,Snapdragon 6 Gen 1,4.6,April,2025,Flagship
+Realme,342,12,512,12,4500,7,65,Yes,Android,Tensor G4,3.5,January,2025,Mid-range
+Oppo,691,8,1024,200,6000,6.7,18,Yes,Android,Dimensity 9300,5,June,2025,Mid-range
+Oppo,224,6,512,12,5000,6.8,18,Yes,Android,A18 Pro,4.3,November,2025,Budget
+Oppo,682,16,128,108,5000,7.2,65,Yes,Android,Snapdragon 6 Gen 1,3.8,October,2025,Mid-range
+Samsung,142,4,512,200,4500,6,18,Yes,Android,Snapdragon 8 Gen 3,4.1,December,2025,Budget
+Google,653,8,128,200,6000,6,65,Yes,Android,Exynos 2400,4.1,April,2025,Mid-range
+Infinix,263,16,128,12,5500,6.8,100,Yes,Android,Tensor G4,3.5,September,2025,Budget
+Google,464,16,1024,200,6000,5.7,100,Yes,Android,Snapdragon 6 Gen 1,4.9,September,2025,Mid-range
+Infinix,851,8,1024,108,4000,6.8,18,Yes,Android,Exynos 2400,4.4,December,2025,Flagship
+Xiaomi,313,12,256,48,4500,6.1,120,Yes,Android,Dimensity 9300,3.7,May,2025,Mid-range
+Samsung,1221,6,1024,50,5000,6.3,120,Yes,Android,Dimensity 9300,4,June,2025,Flagship
+OnePlus,245,4,256,48,4500,6.2,44,Yes,Android,Tensor G4,5,August,2025,Budget
+Vivo,1331,16,128,48,6000,6.5,100,Yes,Android,Dimensity 9300,3.7,November,2025,Flagship
+Xiaomi,1246,4,512,108,5500,6.6,120,Yes,Android,Helio G99,4.4,July,2025,Flagship
+Oppo,1300,6,512,200,4000,5.7,100,Yes,Android,A18 Pro,4.6,February,2025,Flagship
+Samsung,917,16,64,64,6000,6.2,120,Yes,Android,Snapdragon 8 Gen 3,3.8,August,2025,Flagship
+OnePlus,724,8,256,64,4500,6.5,18,Yes,Android,A18 Pro,3.9,May,2025,Flagship
+Oppo,544,6,1024,64,5000,6.5,100,Yes,Android,Tensor G4,3.8,October,2025,Mid-range
+Realme,486,6,512,108,5000,6.3,120,Yes,Android,A18 Pro,5,January,2025,Mid-range
+OnePlus,508,6,1024,12,4500,6.6,33,Yes,Android,A18 Pro,4.5,March,2025,Mid-range
+Apple,582,12,512,200,6000,5.9,33,Yes,iOS,Exynos 2400,4.4,September,2025,Mid-range
+Google,1256,6,512,50,5000,7.1,33,Yes,Android,Snapdragon 7+ Gen 2,4.7,October,2025,Flagship
+OnePlus,1446,6,64,200,4500,5.8,65,Yes,Android,Tensor G4,4.6,December,2025,Flagship
+Apple,715,12,1024,64,4000,5.9,18,Yes,iOS,Snapdragon 7+ Gen 2,3.6,April,2025,Flagship
+OnePlus,437,12,128,64,4500,6.9,65,Yes,Android,Helio G99,4.3,August,2025,Mid-range
+Realme,1386,8,64,12,6000,6.4,100,Yes,Android,Tensor G4,3.9,August,2025,Flagship
+Samsung,815,12,64,48,6000,6.3,18,Yes,Android,Snapdragon 6 Gen 1,4.8,October,2025,Flagship
+Samsung,1049,4,1024,48,5500,6.1,18,Yes,Android,Snapdragon 8 Gen 3,4.8,March,2025,Flagship
+OnePlus,168,6,64,64,5000,6,44,Yes,Android,Helio G99,3.6,November,2025,Budget
+Apple,937,4,1024,12,6000,6.3,100,Yes,iOS,Helio G99,4.5,April,2025,Flagship
+OnePlus,310,8,256,12,5000,7,120,Yes,Android,Exynos 2400,4.3,September,2025,Mid-range
+Google,253,16,256,12,4500,6.7,120,Yes,Android,Tensor G4,4.4,May,2025,Budget
+Vivo,1373,6,256,48,6000,7,33,Yes,Android,Snapdragon 7+ Gen 2,3.6,May,2025,Flagship
+Apple,703,4,64,200,5500,5.6,33,Yes,iOS,A18 Pro,4.7,April,2025,Flagship
+Apple,1210,16,64,50,5500,6.7,18,Yes,iOS,A18 Pro,4.2,April,2025,Flagship
+Oppo,880,12,512,50,4500,6.5,65,Yes,Android,Tensor G4,5,March,2025,Flagship
+Vivo,1399,12,1024,48,6000,6.7,65,Yes,Android,Snapdragon 7+ Gen 2,4.9,January,2025,Flagship
+Realme,234,12,128,200,6000,6.3,100,Yes,Android,Helio G99,5,October,2025,Budget
+Oppo,760,16,128,12,6000,6.5,120,Yes,Android,A18 Pro,4,September,2025,Flagship
+Infinix,688,8,256,64,5000,5.7,18,Yes,Android,Snapdragon 6 Gen 1,3.7,October,2025,Mid-range
+OnePlus,1409,12,1024,48,5500,6.1,65,Yes,Android,Dimensity 9300,4.9,May,2025,Flagship
+Apple,661,4,256,200,4000,6.5,120,Yes,iOS,Helio G99,4.5,December,2025,Mid-range
+Realme,502,4,512,108,5500,6.4,100,Yes,Android,Snapdragon 6 Gen 1,3.8,March,2025,Mid-range
+Apple,545,4,256,64,5000,5.7,44,Yes,iOS,Helio G99,3.8,July,2025,Mid-range
+Apple,1460,12,64,200,6000,5.6,120,Yes,iOS,A18 Pro,4.4,July,2025,Flagship
+Google,491,12,128,64,5500,6,100,Yes,Android,Snapdragon 8 Gen 3,3.8,September,2025,Mid-range
+Infinix,551,6,256,50,4500,5.6,33,Yes,Android,Snapdragon 7+ Gen 2,4.2,January,2025,Mid-range
+Vivo,371,6,64,200,5500,5.7,100,Yes,Android,Snapdragon 6 Gen 1,3.6,January,2025,Mid-range
+Oppo,1426,6,256,64,5000,6.6,44,Yes,Android,Snapdragon 8 Gen 3,4.3,August,2025,Flagship
+Samsung,987,6,64,108,4000,6.3,18,Yes,Android,Exynos 2400,4.7,June,2025,Flagship
+Vivo,642,12,128,108,5000,6,120,Yes,Android,Snapdragon 6 Gen 1,3.5,April,2025,Mid-range
+Vivo,611,4,64,12,5000,6.1,44,Yes,Android,Snapdragon 8 Gen 3,3.7,August,2025,Mid-range
+Oppo,711,16,1024,200,4500,6.6,120,Yes,Android,Snapdragon 6 Gen 1,4.8,July,2025,Flagship
+Xiaomi,1295,12,64,50,4500,5.8,120,Yes,Android,Tensor G4,4.5,June,2025,Flagship
+Apple,1138,4,128,200,5000,6.2,65,Yes,iOS,Helio G99,3.5,July,2025,Flagship
+Apple,1466,12,256,108,4000,6.1,33,Yes,iOS,Snapdragon 7+ Gen 2,4.4,December,2025,Flagship
+OnePlus,1386,8,1024,108,6000,7.1,65,Yes,Android,Snapdragon 8 Gen 3,4.8,March,2025,Flagship
+Vivo,664,6,64,12,5500,5.6,18,Yes,Android,Tensor G4,3.7,July,2025,Mid-range
+Xiaomi,899,4,1024,64,4500,5.9,18,Yes,Android,Dimensity 9300,4.2,September,2025,Flagship
+Infinix,639,12,128,12,4000,5.5,18,Yes,Android,Snapdragon 7+ Gen 2,4.9,January,2025,Mid-range
+Realme,779,4,64,48,5000,6.9,33,Yes,Android,Exynos 2400,4.5,August,2025,Flagship
+Xiaomi,193,16,64,48,5500,6.6,65,Yes,Android,Exynos 2400,3.8,November,2025,Budget
+Infinix,1464,4,512,48,4000,6.9,18,Yes,Android,Exynos 2400,4,April,2025,Flagship
+Vivo,1417,4,512,12,6000,6.4,44,Yes,Android,Dimensity 9300,4.8,July,2025,Flagship
+Vivo,498,4,64,50,6000,6.5,18,Yes,Android,Helio G99,4.8,June,2025,Mid-range
+Xiaomi,927,8,128,64,6000,6.8,33,Yes,Android,Dimensity 9300,3.7,November,2025,Flagship
+Xiaomi,521,4,128,200,5500,5.5,33,Yes,Android,Snapdragon 8 Gen 3,4.7,March,2025,Mid-range
+Samsung,900,12,128,200,5000,7.2,18,Yes,Android,A18 Pro,3.7,April,2025,Flagship
+Vivo,1178,6,1024,12,6000,6.9,18,Yes,Android,Tensor G4,3.9,April,2025,Flagship
+Realme,795,8,512,50,5500,6.5,18,Yes,Android,Exynos 2400,4.8,March,2025,Flagship
+Samsung,1436,16,128,50,4000,6.8,44,Yes,Android,Snapdragon 6 Gen 1,3.5,May,2025,Flagship
+OnePlus,148,8,1024,200,5500,5.7,65,Yes,Android,Tensor G4,4.2,June,2025,Budget
+Infinix,1369,8,512,48,4000,5.6,100,Yes,Android,Helio G99,3.7,October,2025,Flagship
+Vivo,410,8,512,12,5500,6,120,Yes,Android,Snapdragon 6 Gen 1,4.6,February,2025,Mid-range
+Vivo,1315,8,256,48,4500,5.6,33,Yes,Android,Helio G99,5,August,2025,Flagship
+Infinix,298,6,64,64,5500,6.3,18,Yes,Android,Snapdragon 6 Gen 1,3.9,May,2025,Budget
+OnePlus,600,6,512,108,6000,5.9,100,Yes,Android,Snapdragon 7+ Gen 2,3.8,April,2025,Mid-range
+Xiaomi,963,12,128,200,6000,6.7,120,Yes,Android,Snapdragon 7+ Gen 2,3.9,April,2025,Flagship
+Vivo,437,16,128,12,6000,6.6,120,Yes,Android,Snapdragon 8 Gen 3,4.6,May,2025,Mid-range
+Google,531,6,1024,48,4000,5.5,44,Yes,Android,A18 Pro,3.6,March,2025,Mid-range
+Google,820,6,64,64,5500,6.9,65,Yes,Android,Helio G99,4.1,April,2025,Flagship
+Xiaomi,1021,4,128,108,5000,6.6,18,Yes,Android,Exynos 2400,4.1,April,2025,Flagship
+Xiaomi,320,4,128,108,6000,6.9,120,Yes,Android,Dimensity 9300,4.2,April,2025,Mid-range
+Oppo,1286,6,1024,12,5500,5.8,120,Yes,Android,Exynos 2400,4.1,February,2025,Flagship
+Apple,824,4,512,108,4500,5.6,44,Yes,iOS,Helio G99,4.8,July,2025,Flagship
+Realme,264,12,128,108,5500,5.7,33,Yes,Android,Tensor G4,3.9,October,2025,Budget
+Oppo,1185,4,512,48,5500,7.1,18,Yes,Android,Exynos 2400,4.1,August,2025,Flagship
+Vivo,699,4,64,200,5500,7.1,65,Yes,Android,Snapdragon 7+ Gen 2,4.8,July,2025,Mid-range
+Infinix,1021,16,512,50,6000,6.5,18,Yes,Android,Dimensity 9300,5,May,2025,Flagship
+OnePlus,1279,16,64,12,4500,6.9,18,Yes,Android,Tensor G4,3.7,April,2025,Flagship
+Oppo,691,8,1024,48,6000,5.6,44,Yes,Android,Snapdragon 7+ Gen 2,4.5,June,2025,Mid-range
+Infinix,596,12,256,12,5500,7,65,Yes,Android,Tensor G4,4.3,November,2025,Mid-range
+Google,538,8,64,108,4000,6.9,120,Yes,Android,Snapdragon 8 Gen 3,4.4,April,2025,Mid-range
+Vivo,918,16,1024,200,4000,7.1,65,Yes,Android,Snapdragon 7+ Gen 2,4.4,March,2025,Flagship
+Google,141,8,128,108,4500,7,120,Yes,Android,Dimensity 9300,4.5,March,2025,Budget
+Oppo,1322,8,256,12,6000,5.8,18,Yes,Android,Snapdragon 7+ Gen 2,3.8,June,2025,Flagship
+Samsung,400,12,1024,108,6000,7.2,100,Yes,Android,Exynos 2400,3.8,December,2025,Mid-range
+Apple,336,8,512,64,4500,6.3,120,Yes,iOS,Tensor G4,3.8,August,2025,Mid-range
+Infinix,464,8,512,12,6000,6.6,120,Yes,Android,Tensor G4,4.5,March,2025,Mid-range
+Samsung,1498,16,512,50,5000,5.7,120,Yes,Android,Tensor G4,3.8,May,2025,Flagship
+Samsung,1215,4,256,12,4500,5.9,33,Yes,Android,Snapdragon 7+ Gen 2,4.4,February,2025,Flagship
+Xiaomi,882,16,512,48,5500,5.9,65,Yes,Android,A18 Pro,4,March,2025,Flagship
+Vivo,820,4,512,108,4500,6.3,33,Yes,Android,Snapdragon 6 Gen 1,3.7,April,2025,Flagship
+Infinix,429,4,128,108,4500,6.9,100,Yes,Android,Snapdragon 6 Gen 1,4.2,February,2025,Mid-range
+Infinix,808,12,64,200,5000,7.1,44,Yes,Android,Helio G99,4.8,January,2025,Flagship
+Realme,1150,4,128,50,4000,5.7,100,Yes,Android,Snapdragon 8 Gen 3,3.8,July,2025,Flagship
+Oppo,492,16,256,200,4000,6.3,18,Yes,Android,Exynos 2400,4,April,2025,Mid-range
+Google,1337,6,128,200,4000,5.9,100,Yes,Android,Snapdragon 7+ Gen 2,3.5,January,2025,Flagship
+Vivo,1220,16,512,12,5500,5.7,100,Yes,Android,Dimensity 9300,3.9,April,2025,Flagship
+Oppo,567,6,128,108,5000,6.8,100,Yes,Android,Snapdragon 8 Gen 3,5,October,2025,Mid-range
+Apple,1204,4,128,200,4500,6.4,100,Yes,iOS,Helio G99,3.8,February,2025,Flagship
+Vivo,1495,6,64,64,5000,5.6,18,Yes,Android,Snapdragon 8 Gen 3,4.9,April,2025,Flagship
+Apple,933,8,1024,48,5500,5.7,65,Yes,iOS,Helio G99,3.7,August,2025,Flagship
+Samsung,729,6,128,12,5500,7.1,65,Yes,Android,Helio G99,4.9,July,2025,Flagship
+Samsung,1189,16,256,64,6000,6.4,44,Yes,Android,A18 Pro,3.7,March,2025,Flagship
+Infinix,548,4,512,50,4500,7.2,100,Yes,Android,Exynos 2400,4.4,August,2025,Mid-range
+Vivo,1218,16,256,48,5000,6.8,65,Yes,Android,Snapdragon 6 Gen 1,3.5,April,2025,Flagship
+Apple,715,4,128,200,4000,6.1,100,Yes,iOS,Exynos 2400,4.9,May,2025,Flagship
+Xiaomi,1038,12,64,12,5500,5.8,100,Yes,Android,Exynos 2400,3.9,January,2025,Flagship
+Google,670,16,64,64,5500,6.1,120,Yes,Android,Snapdragon 8 Gen 3,4.8,February,2025,Mid-range
+Realme,1317,6,512,50,5500,6.2,65,Yes,Android,Helio G99,4.7,August,2025,Flagship
+Xiaomi,1255,6,64,200,5000,6.6,100,Yes,Android,Snapdragon 8 Gen 3,4.1,September,2025,Flagship
+OnePlus,299,12,512,50,4000,6.5,65,Yes,Android,Helio G99,4.6,July,2025,Budget
+Realme,1042,6,256,64,6000,6.5,120,Yes,Android,Snapdragon 6 Gen 1,4.7,November,2025,Flagship
+Vivo,1165,6,64,48,4500,6.2,65,Yes,Android,Snapdragon 6 Gen 1,3.7,November,2025,Flagship
+Oppo,166,8,64,12,6000,6.4,65,Yes,Android,Tensor G4,3.7,August,2025,Budget
+Infinix,858,4,256,200,6000,7,100,Yes,Android,Dimensity 9300,4.4,June,2025,Flagship
+Infinix,318,6,64,50,4500,5.7,44,Yes,Android,Snapdragon 6 Gen 1,3.8,November,2025,Mid-range
+Vivo,773,12,128,12,4000,7.2,65,Yes,Android,Snapdragon 6 Gen 1,4.1,January,2025,Flagship
+Samsung,1199,12,256,12,6000,6.1,100,Yes,Android,Dimensity 9300,3.5,June,2025,Flagship
+Realme,1274,6,1024,64,4000,6.8,44,Yes,Android,A18 Pro,4.3,February,2025,Flagship
+Google,920,4,256,200,4000,5.5,18,Yes,Android,Helio G99,3.5,April,2025,Flagship
+Apple,497,4,128,50,4500,5.9,33,Yes,iOS,Snapdragon 7+ Gen 2,3.8,October,2025,Mid-range
+Google,1397,6,64,48,4000,5.6,100,Yes,Android,Snapdragon 8 Gen 3,4.8,April,2025,Flagship
+Google,983,4,512,50,5000,6.8,100,Yes,Android,Dimensity 9300,4,January,2025,Flagship
+Realme,471,16,256,200,5000,7.1,44,Yes,Android,Dimensity 9300,3.7,March,2025,Mid-range
+Samsung,753,12,1024,48,6000,7.1,65,Yes,Android,Dimensity 9300,3.6,February,2025,Flagship
+OnePlus,118,8,64,48,6000,6.2,44,Yes,Android,Snapdragon 8 Gen 3,4.6,April,2025,Budget
+Vivo,112,16,512,12,4500,6.7,33,Yes,Android,Tensor G4,4.5,March,2025,Budget
+Realme,634,8,64,12,4000,6.9,65,Yes,Android,Helio G99,4.4,October,2025,Mid-range
+Vivo,126,12,512,200,4000,5.6,18,Yes,Android,Helio G99,3.7,April,2025,Budget
+Xiaomi,380,8,64,48,5000,7.2,65,Yes,Android,Tensor G4,4.5,July,2025,Mid-range
+Vivo,926,4,1024,12,4000,6.2,18,Yes,Android,Snapdragon 7+ Gen 2,3.6,November,2025,Flagship
+Realme,631,4,128,48,5500,6,65,Yes,Android,Snapdragon 6 Gen 1,4.1,March,2025,Mid-range
+Apple,1403,12,256,12,4500,6.1,33,Yes,iOS,Snapdragon 7+ Gen 2,3.7,June,2025,Flagship
+Google,709,12,512,108,5000,5.7,33,Yes,Android,A18 Pro,3.6,June,2025,Flagship
+Apple,1020,8,64,108,6000,6.2,33,Yes,iOS,Snapdragon 6 Gen 1,4.4,February,2025,Flagship
+Samsung,447,16,512,48,5500,6.2,65,Yes,Android,Snapdragon 8 Gen 3,4.4,December,2025,Mid-range
+Infinix,1088,16,64,12,6000,6.5,33,Yes,Android,Exynos 2400,4.1,February,2025,Flagship
+Realme,910,6,512,108,5000,6.8,44,Yes,Android,Snapdragon 8 Gen 3,3.9,February,2025,Flagship
+Google,761,4,64,200,6000,6.2,65,Yes,Android,Helio G99,3.5,July,2025,Flagship
+Samsung,349,16,64,200,4000,6.5,120,Yes,Android,Snapdragon 6 Gen 1,4.5,May,2025,Mid-range
+Google,1427,4,128,200,5000,6.9,33,Yes,Android,Dimensity 9300,3.8,January,2025,Flagship
+OnePlus,1483,12,512,50,5500,7,65,Yes,Android,Helio G99,4.1,April,2025,Flagship
+Realme,1249,4,512,108,6000,5.6,65,Yes,Android,Snapdragon 7+ Gen 2,4.7,June,2025,Flagship
+Apple,1291,16,1024,64,4500,6.8,100,Yes,iOS,Dimensity 9300,3.9,November,2025,Flagship
+Vivo,1206,16,64,200,4000,6.6,18,Yes,Android,Helio G99,4,July,2025,Flagship
+Oppo,1225,16,1024,108,4000,6,65,Yes,Android,Helio G99,3.7,April,2025,Flagship
+Realme,1147,16,256,50,5500,5.9,33,Yes,Android,Dimensity 9300,3.9,February,2025,Flagship
+Apple,1100,4,128,64,5500,6.1,44,Yes,iOS,Snapdragon 7+ Gen 2,3.7,January,2025,Flagship
+Oppo,892,4,1024,12,4500,6.7,100,Yes,Android,Exynos 2400,4.7,November,2025,Flagship
+OnePlus,830,16,64,48,6000,5.6,33,Yes,Android,Snapdragon 8 Gen 3,4.2,November,2025,Flagship
+Google,131,4,1024,200,6000,6.6,18,Yes,Android,Tensor G4,4,July,2025,Budget
+OnePlus,1303,4,512,108,5500,6.6,65,Yes,Android,Snapdragon 8 Gen 3,3.8,January,2025,Flagship
+Oppo,413,6,64,200,4000,7,65,Yes,Android,Exynos 2400,4.4,April,2025,Mid-range
+Infinix,836,12,128,50,6000,6.8,33,Yes,Android,Tensor G4,5,May,2025,Flagship
+Infinix,533,4,512,200,5000,6.5,120,Yes,Android,Exynos 2400,4.7,May,2025,Mid-range
+Apple,170,6,512,48,5500,6.6,18,Yes,iOS,Exynos 2400,4.9,December,2025,Budget
+Google,520,8,512,108,4500,6.7,65,Yes,Android,Snapdragon 6 Gen 1,3.9,August,2025,Mid-range
+Samsung,419,4,128,64,6000,7.1,65,Yes,Android,Tensor G4,4.9,April,2025,Mid-range
+Xiaomi,1475,8,256,108,5500,6.7,100,Yes,Android,Tensor G4,4.5,November,2025,Flagship
+Samsung,699,6,512,50,4500,5.9,33,Yes,Android,A18 Pro,4.8,November,2025,Mid-range
+Oppo,1261,16,512,50,5500,6.3,65,Yes,Android,A18 Pro,3.9,August,2025,Flagship
+Oppo,186,8,512,48,6000,6.9,120,Yes,Android,Tensor G4,3.6,April,2025,Budget
+Infinix,1166,12,256,108,5000,7,65,Yes,Android,Snapdragon 6 Gen 1,4.9,April,2025,Flagship
+Samsung,899,16,128,64,6000,5.9,18,Yes,Android,Snapdragon 6 Gen 1,3.9,March,2025,Flagship
+Vivo,895,4,128,48,5000,7,65,Yes,Android,Snapdragon 6 Gen 1,4.6,February,2025,Flagship
+Vivo,1210,12,512,108,5500,5.9,120,Yes,Android,Snapdragon 8 Gen 3,4.2,October,2025,Flagship
+Google,664,8,64,50,4000,6.8,18,Yes,Android,Helio G99,4.4,February,2025,Mid-range
+Google,138,16,64,50,4000,6.3,44,Yes,Android,A18 Pro,3.7,March,2025,Budget
+Apple,383,16,1024,64,5500,6.7,44,Yes,iOS,Snapdragon 7+ Gen 2,3.6,August,2025,Mid-range
+Oppo,1064,12,1024,108,5000,6.7,120,Yes,Android,Exynos 2400,4.1,October,2025,Flagship
+Vivo,312,8,512,64,5500,6.7,44,Yes,Android,Snapdragon 6 Gen 1,4.7,January,2025,Mid-range
+Realme,834,16,128,50,5000,6.2,33,Yes,Android,Dimensity 9300,4.6,April,2025,Flagship
+Vivo,984,16,256,200,4500,6.8,44,Yes,Android,Snapdragon 6 Gen 1,4.9,August,2025,Flagship
+Google,707,12,64,200,5000,6.9,18,Yes,Android,Snapdragon 8 Gen 3,4.8,May,2025,Flagship
+Vivo,779,6,512,64,4500,6.7,120,Yes,Android,Helio G99,4.4,October,2025,Flagship
+Oppo,1444,4,256,12,4500,7,65,Yes,Android,Tensor G4,4.3,December,2025,Flagship
+Xiaomi,1079,12,128,108,6000,6.6,65,Yes,Android,Helio G99,3.6,July,2025,Flagship
+Vivo,404,8,1024,50,5000,7,120,Yes,Android,Helio G99,4.1,September,2025,Mid-range
+Infinix,1221,6,512,48,4500,7,33,Yes,Android,Snapdragon 8 Gen 3,3.9,June,2025,Flagship
+Infinix,586,16,128,48,4000,7.1,120,Yes,Android,Exynos 2400,3.6,September,2025,Mid-range
+Oppo,1209,16,512,200,4000,6.7,120,Yes,Android,Exynos 2400,3.7,September,2025,Flagship
+Xiaomi,302,8,64,50,5500,7,65,Yes,Android,Tensor G4,4.8,November,2025,Mid-range
+Samsung,1109,4,64,108,6000,6.1,120,Yes,Android,A18 Pro,3.9,March,2025,Flagship
+Samsung,165,12,64,50,6000,6.5,65,Yes,Android,Snapdragon 6 Gen 1,4.1,June,2025,Budget
+Realme,1379,4,512,48,5500,7,65,Yes,Android,Helio G99,3.7,April,2025,Flagship
+Oppo,1085,4,512,48,4000,6.1,18,Yes,Android,A18 Pro,4.7,December,2025,Flagship
+Xiaomi,1255,4,512,50,5500,6,18,Yes,Android,Exynos 2400,4,January,2025,Flagship
+Google,474,12,256,12,5000,7.2,120,Yes,Android,Snapdragon 8 Gen 3,3.9,July,2025,Mid-range
+Realme,1296,6,512,108,4500,6.7,33,Yes,Android,Dimensity 9300,4.8,April,2025,Flagship
+Samsung,1435,12,128,64,6000,7,100,Yes,Android,A18 Pro,4.8,November,2025,Flagship
+Vivo,1146,12,128,108,5000,6.8,33,Yes,Android,Helio G99,4.3,December,2025,Flagship
+Xiaomi,884,4,1024,50,6000,6.5,100,Yes,Android,Tensor G4,3.6,October,2025,Flagship
+Realme,231,16,256,200,5500,5.7,65,Yes,Android,Dimensity 9300,4.3,July,2025,Budget
+Xiaomi,928,4,512,200,4500,6.8,120,Yes,Android,Helio G99,4.9,July,2025,Flagship
+Apple,225,4,1024,48,5000,7.2,65,Yes,iOS,Snapdragon 8 Gen 3,3.9,October,2025,Budget
+Google,889,4,1024,50,5500,6.5,100,Yes,Android,A18 Pro,4.2,April,2025,Flagship
+Google,402,12,1024,48,6000,5.8,120,Yes,Android,Snapdragon 8 Gen 3,4.3,May,2025,Mid-range
+Realme,1334,4,128,108,4000,6,44,Yes,Android,Tensor G4,3.7,July,2025,Flagship
+Apple,151,8,128,108,5500,6.3,44,Yes,iOS,Dimensity 9300,4.7,June,2025,Budget
+Xiaomi,1309,12,256,50,5000,6.4,65,Yes,Android,Snapdragon 8 Gen 3,4.2,December,2025,Flagship
+Vivo,210,12,128,64,6000,6.6,18,Yes,Android,Exynos 2400,3.9,February,2025,Budget
+Realme,179,8,512,108,5500,5.6,44,Yes,Android,Snapdragon 8 Gen 3,4.2,August,2025,Budget
+OnePlus,833,12,256,108,5500,6.7,44,Yes,Android,Snapdragon 7+ Gen 2,5,April,2025,Flagship
+Vivo,1397,6,128,48,6000,5.8,18,Yes,Android,Snapdragon 8 Gen 3,3.7,May,2025,Flagship
+Apple,183,8,128,64,6000,7.2,120,Yes,iOS,Snapdragon 6 Gen 1,4.3,July,2025,Budget
+Realme,1320,6,64,50,4000,6.9,18,Yes,Android,Helio G99,3.7,February,2025,Flagship
+Vivo,210,4,512,64,5000,6.2,44,Yes,Android,Tensor G4,3.9,December,2025,Budget
+Apple,873,6,256,50,6000,6,33,Yes,iOS,A18 Pro,4.8,April,2025,Flagship
+Xiaomi,377,6,128,50,5500,7,44,Yes,Android,Dimensity 9300,4.3,July,2025,Mid-range
+Infinix,297,4,1024,108,4500,6,120,Yes,Android,Helio G99,4,January,2025,Budget
+Samsung,439,6,256,108,5500,5.9,33,Yes,Android,Helio G99,4.6,September,2025,Mid-range
+Oppo,1498,6,512,12,5000,6.6,65,Yes,Android,A18 Pro,4.7,September,2025,Flagship
+Vivo,638,6,64,48,6000,7.2,18,Yes,Android,Helio G99,4,October,2025,Mid-range
+Samsung,1349,12,1024,200,5500,5.9,100,Yes,Android,Dimensity 9300,5,May,2025,Flagship
+Realme,1351,12,512,200,6000,6.5,65,Yes,Android,Tensor G4,4.6,December,2025,Flagship
+Infinix,1410,4,128,64,4000,7.1,18,Yes,Android,Snapdragon 7+ Gen 2,4.4,November,2025,Flagship
+Infinix,182,6,128,48,5000,5.6,65,Yes,Android,Snapdragon 8 Gen 3,5,September,2025,Budget
+Apple,405,8,1024,50,5500,5.8,44,Yes,iOS,Tensor G4,3.7,March,2025,Mid-range
+Samsung,1343,6,64,50,4500,5.9,18,Yes,Android,Snapdragon 6 Gen 1,4.3,August,2025,Flagship
+Infinix,1267,6,512,64,5500,6.5,65,Yes,Android,Snapdragon 8 Gen 3,3.6,November,2025,Flagship
+Xiaomi,1229,8,64,48,5000,6.3,18,Yes,Android,A18 Pro,3.7,December,2025,Flagship
+Apple,154,12,64,108,4000,6.4,65,Yes,iOS,Dimensity 9300,3.8,January,2025,Budget
+Apple,633,4,128,12,4500,6.9,120,Yes,iOS,Snapdragon 6 Gen 1,4.1,July,2025,Mid-range
+Realme,939,12,512,200,5500,6.5,100,Yes,Android,Snapdragon 7+ Gen 2,5,October,2025,Flagship
+OnePlus,327,6,512,108,5000,6.7,65,Yes,Android,A18 Pro,4.3,October,2025,Mid-range
+Apple,436,12,1024,50,5000,5.9,18,Yes,iOS,Tensor G4,4.5,June,2025,Mid-range
+OnePlus,450,12,128,12,4500,5.6,18,Yes,Android,A18 Pro,3.6,December,2025,Mid-range
+Xiaomi,1462,12,128,200,6000,6.5,18,Yes,Android,Helio G99,4.4,August,2025,Flagship
+Infinix,1241,8,128,108,5500,6.4,120,Yes,Android,Exynos 2400,3.6,May,2025,Flagship
+Google,227,8,64,12,5000,5.8,44,Yes,Android,Exynos 2400,4.1,March,2025,Budget
+Infinix,270,12,1024,108,4000,6.4,18,Yes,Android,Tensor G4,4.6,January,2025,Budget
+Samsung,1465,8,256,50,6000,5.5,44,Yes,Android,A18 Pro,4.2,July,2025,Flagship
+Apple,1083,4,128,48,5000,5.7,120,Yes,iOS,Helio G99,3.6,May,2025,Flagship
+Realme,835,12,128,64,4000,6.2,100,Yes,Android,Tensor G4,4.9,July,2025,Flagship
+Apple,445,16,256,200,6000,5.7,65,Yes,iOS,Dimensity 9300,4.5,May,2025,Mid-range
+Vivo,1119,6,512,64,5000,7.1,100,Yes,Android,Dimensity 9300,3.7,July,2025,Flagship
+Vivo,1479,8,256,48,4000,6.6,33,Yes,Android,Tensor G4,3.8,November,2025,Flagship
+Apple,817,16,64,12,6000,6.9,100,Yes,iOS,Snapdragon 7+ Gen 2,4.5,May,2025,Flagship
+Google,188,16,512,48,5500,6.3,33,Yes,Android,Tensor G4,3.8,September,2025,Budget
+Infinix,777,12,512,12,4500,5.8,44,Yes,Android,Dimensity 9300,3.8,July,2025,Flagship
+Google,1350,8,1024,108,5500,6.3,18,Yes,Android,Exynos 2400,4.8,June,2025,Flagship
+Samsung,1209,8,512,12,4500,6.8,65,Yes,Android,Snapdragon 6 Gen 1,4.7,October,2025,Flagship
+OnePlus,1405,6,512,50,4000,6.5,120,Yes,Android,Snapdragon 6 Gen 1,3.7,January,2025,Flagship
+Google,134,12,64,48,4000,6.3,18,Yes,Android,Exynos 2400,3.8,August,2025,Budget
+Samsung,443,6,512,48,5500,6.3,18,Yes,Android,Dimensity 9300,4.1,February,2025,Mid-range
+Xiaomi,787,16,1024,64,4000,5.5,65,Yes,Android,Helio G99,3.8,January,2025,Flagship
+OnePlus,279,4,256,12,6000,7.2,44,Yes,Android,Snapdragon 6 Gen 1,3.7,January,2025,Budget
+Vivo,1499,6,256,108,5000,7.1,33,Yes,Android,A18 Pro,4.6,October,2025,Flagship
+Google,204,6,64,48,5000,6.1,18,Yes,Android,Exynos 2400,4.3,November,2025,Budget
+Vivo,804,4,512,64,5000,7,44,Yes,Android,Exynos 2400,4.2,January,2025,Flagship
+OnePlus,1462,6,128,12,5000,5.8,44,Yes,Android,Snapdragon 7+ Gen 2,4,September,2025,Flagship
+Samsung,573,4,1024,108,5500,5.6,120,Yes,Android,Dimensity 9300,5,March,2025,Mid-range
+Oppo,391,4,256,200,6000,6.3,18,Yes,Android,Tensor G4,4.2,January,2025,Mid-range
+Apple,579,6,512,108,4000,6.1,120,Yes,iOS,A18 Pro,4.7,July,2025,Mid-range
+Apple,1302,6,512,64,5000,7,65,Yes,iOS,Dimensity 9300,3.9,November,2025,Flagship
+Samsung,356,16,1024,48,5000,6.4,100,Yes,Android,Exynos 2400,4,October,2025,Mid-range
+Apple,790,12,256,50,4000,6.5,18,Yes,iOS,A18 Pro,3.6,June,2025,Flagship
+OnePlus,1300,12,1024,108,4500,6.6,65,Yes,Android,Dimensity 9300,3.6,May,2025,Flagship
+Oppo,118,6,1024,12,5500,6.6,65,Yes,Android,Snapdragon 6 Gen 1,4.5,January,2025,Budget
+OnePlus,721,6,256,12,4000,6.8,120,Yes,Android,Snapdragon 6 Gen 1,4.1,April,2025,Flagship
+OnePlus,648,8,1024,200,4500,6,120,Yes,Android,Dimensity 9300,4.9,November,2025,Mid-range
+Google,1100,16,128,50,5000,7.1,120,Yes,Android,Dimensity 9300,4,March,2025,Flagship
+Samsung,1138,6,512,64,5000,6.1,44,Yes,Android,Exynos 2400,4.9,September,2025,Flagship
+Vivo,1011,4,64,64,6000,6.8,33,Yes,Android,Dimensity 9300,3.5,November,2025,Flagship
+Realme,1154,16,512,200,6000,5.9,44,Yes,Android,Snapdragon 6 Gen 1,4.2,July,2025,Flagship
+OnePlus,628,8,128,48,6000,5.8,65,Yes,Android,Helio G99,4.1,April,2025,Mid-range
+Xiaomi,1374,12,1024,108,5000,5.9,44,Yes,Android,Dimensity 9300,3.6,March,2025,Flagship
+Infinix,1186,8,128,200,5000,7.2,120,Yes,Android,Exynos 2400,4.3,August,2025,Flagship
+Infinix,885,16,64,48,4000,7.2,18,Yes,Android,Snapdragon 7+ Gen 2,4.4,December,2025,Flagship
+OnePlus,1302,8,512,200,4000,6.6,100,Yes,Android,Snapdragon 7+ Gen 2,4.5,August,2025,Flagship
+Infinix,465,12,128,50,5000,6.5,18,Yes,Android,Exynos 2400,3.9,February,2025,Mid-range
+Xiaomi,648,16,1024,108,4500,6.4,33,Yes,Android,Exynos 2400,4.7,February,2025,Mid-range
+Apple,1316,6,512,12,4000,6.6,44,Yes,iOS,Exynos 2400,4,July,2025,Flagship
+Realme,1111,6,256,108,5500,6.4,65,Yes,Android,Dimensity 9300,3.6,September,2025,Flagship
+Infinix,1221,12,512,12,5500,5.9,120,Yes,Android,Snapdragon 8 Gen 3,5,August,2025,Flagship
+Google,788,4,128,108,6000,5.8,65,Yes,Android,Tensor G4,3.6,February,2025,Flagship
+Oppo,1249,16,1024,108,6000,6.1,120,Yes,Android,Helio G99,4.4,August,2025,Flagship
+OnePlus,523,12,512,50,6000,6.9,100,Yes,Android,Helio G99,4.4,November,2025,Mid-range
+Realme,1078,16,128,64,4500,6.6,65,Yes,Android,Snapdragon 6 Gen 1,3.9,March,2025,Flagship
+Oppo,1124,12,128,200,5000,6.7,100,Yes,Android,Helio G99,4.7,November,2025,Flagship
+Infinix,646,16,128,64,6000,6.5,100,Yes,Android,Helio G99,4.4,November,2025,Mid-range
+Infinix,515,6,256,64,6000,5.9,33,Yes,Android,Snapdragon 8 Gen 3,3.6,June,2025,Mid-range
+Xiaomi,1150,6,512,48,5500,6.5,44,Yes,Android,Snapdragon 8 Gen 3,4.2,March,2025,Flagship
+Oppo,718,16,64,64,6000,5.6,44,Yes,Android,Dimensity 9300,4,December,2025,Flagship
+Xiaomi,670,12,1024,48,5500,5.7,33,Yes,Android,Dimensity 9300,4.9,March,2025,Mid-range
+Oppo,581,16,512,108,4000,6,18,Yes,Android,Exynos 2400,4.1,January,2025,Mid-range
+Realme,1385,4,64,64,5000,6.8,100,Yes,Android,Snapdragon 7+ Gen 2,4.9,August,2025,Flagship
+Google,316,8,1024,64,6000,6.4,44,Yes,Android,A18 Pro,4.9,May,2025,Mid-range
+Samsung,304,6,256,108,4500,6.9,33,Yes,Android,Snapdragon 6 Gen 1,5,July,2025,Mid-range
+Google,890,16,512,108,5000,6.2,33,Yes,Android,Exynos 2400,4.9,April,2025,Flagship
+Xiaomi,835,12,256,48,4000,7,100,Yes,Android,Snapdragon 8 Gen 3,4.2,June,2025,Flagship
+Oppo,1348,16,128,12,5500,6.1,33,Yes,Android,Snapdragon 7+ Gen 2,3.5,February,2025,Flagship
+Infinix,689,16,128,64,6000,5.6,44,Yes,Android,Dimensity 9300,3.8,August,2025,Mid-range
+Infinix,1007,12,256,12,4500,6.6,65,Yes,Android,Tensor G4,4,June,2025,Flagship
+Google,1068,16,64,48,5500,6.5,33,Yes,Android,Helio G99,4,October,2025,Flagship
+Vivo,271,8,128,108,6000,6.9,65,Yes,Android,Tensor G4,4.2,August,2025,Budget
+Oppo,1083,4,128,50,4000,5.7,18,Yes,Android,Helio G99,4.4,January,2025,Flagship
+Infinix,1292,6,64,108,5000,6.6,120,Yes,Android,Tensor G4,4.1,December,2025,Flagship
+Samsung,1045,12,256,48,4500,5.5,33,Yes,Android,Dimensity 9300,4,August,2025,Flagship
+Vivo,344,12,1024,108,4500,7.2,33,Yes,Android,Tensor G4,3.7,December,2025,Mid-range
+Xiaomi,1140,16,1024,64,4500,6.6,120,Yes,Android,Snapdragon 8 Gen 3,4.1,April,2025,Flagship
+Oppo,410,8,1024,64,5000,6.7,18,Yes,Android,Exynos 2400,4.3,August,2025,Mid-range
+Google,1149,16,1024,48,4000,5.9,44,Yes,Android,Snapdragon 8 Gen 3,4.5,May,2025,Flagship
+Samsung,1360,16,1024,48,5500,6,44,Yes,Android,Snapdragon 6 Gen 1,4.4,October,2025,Flagship
+Infinix,189,12,1024,48,4500,6.5,33,Yes,Android,Snapdragon 8 Gen 3,3.8,October,2025,Budget
+Vivo,732,6,64,50,6000,7.1,65,Yes,Android,Dimensity 9300,4.9,August,2025,Flagship
+OnePlus,163,16,256,200,6000,6.2,33,Yes,Android,Dimensity 9300,4.1,October,2025,Budget
+Infinix,413,8,64,48,4500,6.5,33,Yes,Android,Exynos 2400,3.6,June,2025,Mid-range
+Google,789,16,512,12,5000,5.9,44,Yes,Android,Snapdragon 8 Gen 3,4.1,September,2025,Flagship
+Vivo,181,12,512,108,4000,6.7,120,Yes,Android,A18 Pro,3.9,February,2025,Budget
+Vivo,1235,12,64,108,6000,7.1,33,Yes,Android,Snapdragon 8 Gen 3,3.6,December,2025,Flagship
+OnePlus,147,6,1024,200,4500,6.5,120,Yes,Android,Tensor G4,4.4,June,2025,Budget
+Xiaomi,1039,8,256,50,6000,6,18,Yes,Android,Dimensity 9300,4.6,December,2025,Flagship
+OnePlus,610,8,512,48,4500,5.6,18,Yes,Android,Dimensity 9300,3.9,October,2025,Mid-range
+Apple,259,12,1024,64,5500,5.6,44,Yes,iOS,Dimensity 9300,4.4,June,2025,Budget
+Google,528,12,256,64,5000,6.8,33,Yes,Android,Dimensity 9300,3.9,March,2025,Mid-range
+Xiaomi,1399,6,128,50,4500,5.9,120,Yes,Android,Snapdragon 6 Gen 1,4.9,July,2025,Flagship
+Vivo,128,4,512,48,5000,5.6,18,Yes,Android,Helio G99,3.8,August,2025,Budget
+Google,662,12,128,64,4500,6.6,120,Yes,Android,Dimensity 9300,3.9,September,2025,Mid-range
+Realme,1003,6,64,12,5500,6.1,65,Yes,Android,Helio G99,4,March,2025,Flagship
+Realme,1154,12,1024,64,6000,5.7,18,Yes,Android,Tensor G4,4.9,September,2025,Flagship
+Xiaomi,450,16,1024,50,5000,6.6,44,Yes,Android,Snapdragon 6 Gen 1,4.3,June,2025,Mid-range
+Google,1107,8,256,108,6000,6,65,Yes,Android,Snapdragon 6 Gen 1,4,November,2025,Flagship
+Xiaomi,152,4,1024,12,4500,6.2,18,Yes,Android,Helio G99,3.9,May,2025,Budget
+Vivo,1161,6,1024,50,6000,6.7,65,Yes,Android,A18 Pro,3.9,May,2025,Flagship
+Realme,423,12,256,48,4000,6.5,44,Yes,Android,Snapdragon 6 Gen 1,4.6,June,2025,Mid-range
+Oppo,1131,8,1024,200,5500,6.6,65,Yes,Android,Snapdragon 7+ Gen 2,4,December,2025,Flagship
+Xiaomi,154,16,128,48,4000,6.8,120,Yes,Android,Helio G99,4.3,September,2025,Budget
+Oppo,717,4,256,64,4000,6,65,Yes,Android,Snapdragon 6 Gen 1,3.9,June,2025,Flagship
+OnePlus,727,6,1024,108,4500,6.3,100,Yes,Android,Helio G99,3.9,October,2025,Flagship
+Infinix,768,12,1024,12,4500,6.2,44,Yes,Android,Snapdragon 6 Gen 1,4.2,May,2025,Flagship
+Realme,437,8,256,50,4000,6.9,33,Yes,Android,A18 Pro,4.7,November,2025,Mid-range
+Vivo,1069,6,1024,50,5500,6.7,44,Yes,Android,Snapdragon 8 Gen 3,4.5,January,2025,Flagship
+Apple,1467,8,1024,64,5500,6.8,65,Yes,iOS,Dimensity 9300,3.7,July,2025,Flagship
+Realme,1211,6,64,50,5000,6.2,18,Yes,Android,Helio G99,5,September,2025,Flagship
+Apple,993,4,128,64,5000,5.8,65,Yes,iOS,Dimensity 9300,4.6,September,2025,Flagship
+Xiaomi,471,8,1024,50,5500,7.1,18,Yes,Android,Snapdragon 6 Gen 1,3.6,August,2025,Mid-range
+Realme,221,8,64,50,5500,5.5,44,Yes,Android,Tensor G4,4.4,December,2025,Budget
+Apple,1386,8,256,200,4000,5.6,65,Yes,iOS,Helio G99,3.9,September,2025,Flagship
+Vivo,537,16,256,50,4500,6.7,33,Yes,Android,Exynos 2400,4.8,November,2025,Mid-range
+Xiaomi,171,12,64,48,5000,5.8,120,Yes,Android,Snapdragon 7+ Gen 2,4.8,August,2025,Budget
+Infinix,1222,8,1024,48,4000,6.4,120,Yes,Android,Snapdragon 6 Gen 1,5,October,2025,Flagship
+Xiaomi,439,4,64,12,6000,6,120,Yes,Android,Helio G99,5,November,2025,Mid-range
+Xiaomi,909,6,256,108,4000,6.7,44,Yes,Android,Tensor G4,3.6,March,2025,Flagship
+Infinix,1100,16,64,64,4500,6.1,100,Yes,Android,A18 Pro,3.6,August,2025,Flagship
+Google,373,4,256,12,4500,6.2,44,Yes,Android,Dimensity 9300,3.9,October,2025,Mid-range
+Infinix,1170,16,64,50,5500,6.6,120,Yes,Android,Dimensity 9300,3.8,April,2025,Flagship
+OnePlus,850,8,64,108,4500,6.4,33,Yes,Android,A18 Pro,4.8,June,2025,Flagship
+Realme,532,6,128,12,4000,6.3,120,Yes,Android,A18 Pro,4.7,April,2025,Mid-range
+Oppo,178,6,1024,50,5000,6.3,120,Yes,Android,A18 Pro,4.4,January,2025,Budget
+Realme,110,6,512,50,5500,5.7,33,Yes,Android,Snapdragon 8 Gen 3,4.1,August,2025,Budget
+Google,961,8,256,12,4000,5.9,44,Yes,Android,Helio G99,4,November,2025,Flagship
+OnePlus,158,16,64,64,5500,5.6,65,Yes,Android,Dimensity 9300,3.5,November,2025,Budget
