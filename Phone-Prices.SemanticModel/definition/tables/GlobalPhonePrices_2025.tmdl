@@ -1,0 +1,216 @@
+table GlobalPhonePrices_2025
+	lineageTag: 7cf16528-5177-4c0b-a69e-90466fe44cd4
+
+	measure 'Average Price' = AVERAGE(GlobalPhonePrices_2025[Price])
+		lineageTag: 235ee2e4-d1df-4ad9-b367-d2e1fc34154b
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Total Phones' = COUNT(GlobalPhonePrices_2025[Brand])
+		formatString: 0
+		lineageTag: 1e8a9a6e-d0bb-4da3-b9af-639161240f2a
+
+	measure 'Avg Price by Category' = ```
+			
+			CALCULATE(
+			    AVERAGE(GlobalPhonePrices_2025[Price]),
+			    ALLEXCEPT(GlobalPhonePrices_2025, GlobalPhonePrices_2025[Price Category])
+			)
+			
+			```
+		lineageTag: d0905d56-7825-40ab-9323-e4dee9208b51
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Max Price' = MAX(GlobalPhonePrices_2025[Price])
+		formatString: 0
+		lineageTag: 6236e9f8-e10f-4f01-b497-5c50e38b124f
+
+	measure 'Min Price' = MIN(GlobalPhonePrices_2025[Price])
+		formatString: 0
+		lineageTag: 21d9a09a-59f7-4536-b6e1-17df82a3cb2b
+
+	measure 'price category count' = COUNT(GlobalPhonePrices_2025[Price Category])
+		formatString: 0
+		lineageTag: aa646841-a3fe-497b-b6a3-6a92b869a2b2
+
+	measure 'Avg Battery Size' = AVERAGE(GlobalPhonePrices_2025[Battery_MAH])
+		lineageTag: d5bb4784-02a2-40a5-86f9-b1a8e4df5a84
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Avg Customer Rating' = AVERAGE(GlobalPhonePrices_2025[Rating])
+		lineageTag: d8407368-aa18-4e55-b0e8-8e1f4e071b0f
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure 'Count of Brand' = COUNT(GlobalPhonePrices_2025[Brand])
+		formatString: 0
+		lineageTag: fd31a5ab-56c5-418e-b424-f0585efb3560
+
+	column Brand
+		dataType: string
+		lineageTag: 90be7cf2-78ef-421b-ad13-ceed921bf3ec
+		summarizeBy: none
+		sourceColumn: Brand
+
+		annotation SummarizationSetBy = Automatic
+
+	column Price
+		dataType: int64
+		formatString: 0
+		lineageTag: e2d6d0d4-f703-4919-bc2c-e3b0ad6ae2c8
+		summarizeBy: sum
+		sourceColumn: Price
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ram_GB
+		dataType: int64
+		formatString: 0
+		lineageTag: 62242bab-b88f-487b-92f6-d2025f41d218
+		summarizeBy: sum
+		sourceColumn: Ram_GB
+
+		annotation SummarizationSetBy = Automatic
+
+	column Storage_GB
+		dataType: int64
+		formatString: 0
+		lineageTag: c9964c26-1c84-4333-9972-1b15ef9e0b3b
+		summarizeBy: sum
+		sourceColumn: Storage_GB
+
+		annotation SummarizationSetBy = Automatic
+
+	column Camera_MP
+		dataType: int64
+		formatString: 0
+		lineageTag: 4df46877-a637-42cd-86cd-a12932d856e2
+		summarizeBy: sum
+		sourceColumn: Camera_MP
+
+		annotation SummarizationSetBy = Automatic
+
+	column Battery_MAH
+		dataType: int64
+		formatString: 0
+		lineageTag: 0958fda5-63d7-4159-a811-d801dbb92b4f
+		summarizeBy: sum
+		sourceColumn: Battery_MAH
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Display Size_INCHES'
+		dataType: double
+		lineageTag: 482be52e-7575-4b1f-b833-53dd02e01ad4
+		summarizeBy: sum
+		sourceColumn: Display Size_INCHES
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column Charging_WATT
+		dataType: int64
+		formatString: 0
+		lineageTag: 249e8de3-181b-4c93-af36-2a9a28e06a91
+		summarizeBy: sum
+		sourceColumn: Charging_WATT
+
+		annotation SummarizationSetBy = Automatic
+
+	column '5G Support'
+		dataType: string
+		lineageTag: 1bf11100-451a-4b11-969c-e49bbf20a07e
+		summarizeBy: none
+		sourceColumn: 5G Support
+
+		annotation SummarizationSetBy = Automatic
+
+	column OS
+		dataType: string
+		lineageTag: 6f16cc45-f418-4cc9-84e5-c99c1dbf4929
+		summarizeBy: none
+		sourceColumn: OS
+
+		annotation SummarizationSetBy = Automatic
+
+	column Processor
+		dataType: string
+		lineageTag: 92d5729a-f3b7-4e58-b22e-a415afdabc59
+		summarizeBy: none
+		sourceColumn: Processor
+
+		annotation SummarizationSetBy = Automatic
+
+	column Rating
+		dataType: double
+		lineageTag: 045cb265-b22c-4223-b188-3d8caab8c3f8
+		summarizeBy: sum
+		sourceColumn: Rating
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column 'Release Month'
+		dataType: string
+		lineageTag: 0704626e-a850-49a2-97a1-f4f488e1e801
+		summarizeBy: none
+		sourceColumn: Release Month
+
+		annotation SummarizationSetBy = Automatic
+
+	column Year
+		dataType: int64
+		formatString: 0
+		lineageTag: 1eeeb8bf-90b9-4e7d-b928-838acba9dc8a
+		summarizeBy: sum
+		sourceColumn: Year
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Price Category'
+		dataType: string
+		lineageTag: 54badbe9-83bf-4d5f-acdb-1e1011033bbe
+		summarizeBy: none
+		sourceColumn: Price Category
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthNumber =
+			
+			SWITCH(
+			    'GlobalPhonePrices_2025'[Release Month],
+			    "January", 1,
+			    "February", 2,
+			    "March", 3,
+			    "April", 4,
+			    "May", 5,
+			    "June", 6,
+			    "July", 7,
+			    "August", 8,
+			    "September", 9,
+			    "October", 10,
+			    "November", 11,
+			    "December", 12
+			)
+		formatString: 0
+		lineageTag: 57716052-db3c-4506-b6fc-fe78ace1d17c
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	partition GlobalPhonePrices_2025 = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\abref\Downloads\GlobalPhonePrices_2025.csv"),[Delimiter=",", Columns=15, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Brand", type text}, {"Price", Int64.Type}, {"Ram_GB", Int64.Type}, {"Storage_GB", Int64.Type}, {"Camera_MP", Int64.Type}, {"Battery_MAH", Int64.Type}, {"Display Size_INCHES", type number}, {"Charging_WATT", Int64.Type}, {"5G Support", type text}, {"OS", type text}, {"Processor", type text}, {"Rating", type number}, {"Release Month", type text}, {"Year", Int64.Type}, {"Price Category", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

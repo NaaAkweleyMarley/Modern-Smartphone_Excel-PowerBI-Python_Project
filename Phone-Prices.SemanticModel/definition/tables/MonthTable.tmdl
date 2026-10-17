@@ -1,0 +1,45 @@
+table MonthTable
+	lineageTag: f984fc92-2167-4a58-b106-8f3bd06ddcba
+
+	column MonthName
+		lineageTag: 4de41e2f-b5fb-4361-9553-35fca04aae2f
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [MonthName]
+		sortByColumn: MonthNumber
+
+		annotation SummarizationSetBy = Automatic
+
+	column MonthNumber
+		formatString: 0
+		lineageTag: 6fac7280-9c2e-4d23-b243-e0d1fb1f1cd2
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [MonthNumber]
+
+		annotation SummarizationSetBy = Automatic
+
+	partition MonthTable = calculated
+		mode: import
+		source =
+				
+				DATATABLE(
+				    "MonthName", STRING,
+				    "MonthNumber", INTEGER,
+				{
+				    {"January", 1},
+				    {"February", 2},
+				    {"March", 3},
+				    {"April", 4},
+				    {"May", 5},
+				    {"June", 6},
+				    {"July", 7},
+				    {"August", 8},
+				    {"September", 9},
+				    {"October", 10},
+				    {"November", 11},
+				    {"December", 12}
+				})
+
+	annotation PBI_Id = 39ac1541112044a192683e53ce25fcfa
+

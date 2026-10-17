@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Phone-Prices"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5385151c-3f5d-43b0-94db-b7554c01c73a"
+  }
+}

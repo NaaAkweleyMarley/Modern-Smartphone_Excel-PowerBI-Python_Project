@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Phone-Prices"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "64aa0108-f139-42af-8699-eb5b579f4467"
+  }
+}

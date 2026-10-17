@@ -1,0 +1,4 @@
+relationship e95dfbe2-c7a3-2da4-8fad-8d5097532827
+	fromColumn: GlobalPhonePrices_2025.'Release Month'
+	toColumn: MonthTable.MonthName
+
